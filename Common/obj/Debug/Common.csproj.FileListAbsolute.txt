@@ -1,0 +1,16 @@
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\Common.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\Common.pdb
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.ProjectModel.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.Shell.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.TextControl.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.Util.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.ReSharper.Feature.Services.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.ReSharper.Psi.CSharp.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.ReSharper.Psi.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.ComponentModel.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Annotations.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.DocumentModel.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\obj\Debug\Common.dll
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\obj\Debug\Common.pdb
+D:\Download\ResharperPlugins-master\ResharperPlugins-master\Common\bin\Debug\JetBrains.Platform.ReSharper.Metadata.dll

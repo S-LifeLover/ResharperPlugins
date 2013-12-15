@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoNMock", "AutoNMock\AutoNMock.csproj", "{5AA0E3F1-D9FB-4E1F-97BA-299BA816EC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoNMock.Tests", "AutoNMock.Tests\AutoNMock.Tests.csproj", "{2EED6361-75F8-42C6-98C1-CB7B78AE8DEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{995B97EB-9E04-4AF0-954E-6A9928661A41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{FD07F37A-1887-4C32-BE6D-D33F84ADC396}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReSharper", "ReSharper", "{F5B74DA5-AD28-4B7C-B9B0-52C294170058}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionItems\Libs\ReSharper\JetBrains.Annotations.dll = SolutionItems\Libs\ReSharper\JetBrains.Annotations.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.ComponentModel.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.ComponentModel.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.DocumentModel.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.DocumentModel.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.ProjectModel.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.ProjectModel.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.Shell.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.Shell.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.TextControl.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.TextControl.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.Util.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.Util.dll
+		SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.VSIntegration.dll = SolutionItems\Libs\ReSharper\JetBrains.Platform.ReSharper.VSIntegration.dll
+		SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Feature.Services.CSharp.dll = SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Feature.Services.CSharp.dll
+		SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Feature.Services.dll = SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Feature.Services.dll
+		SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Intentions.CSharp.dll = SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Intentions.CSharp.dll
+		SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Intentions.dll = SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Intentions.dll
+		SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Psi.CSharp.dll = SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Psi.CSharp.dll
+		SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Psi.dll = SolutionItems\Libs\ReSharper\JetBrains.ReSharper.Psi.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NMock3", "NMock3", "{A7368762-06B3-444B-BF48-D225A5C117CA}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionItems\Libs\NMock3\NMock3.dll = SolutionItems\Libs\NMock3\NMock3.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PostSharp", "PostSharp", "{5BE799F3-DEEC-4DD9-ACF8-D5CB359C566F}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionItems\Libs\PostSharp\PostSharp.dll = SolutionItems\Libs\PostSharp\PostSharp.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{4099CD73-DC01-43D6-BCA9-DC099B4A6B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Tests", "Common.Tests\Common.Tests.csproj", "{60A412A2-13BE-4119-A9FB-B7EA2C74F15F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{A382F562-633D-4FEB-AF90-334EDFFCFE8D}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionItems\Documentation\Сценарии использования плагина AutoNMock.docx = SolutionItems\Documentation\Сценарии использования плагина AutoNMock.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA0E3F1-D9FB-4E1F-97BA-299BA816EC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA0E3F1-D9FB-4E1F-97BA-299BA816EC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA0E3F1-D9FB-4E1F-97BA-299BA816EC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA0E3F1-D9FB-4E1F-97BA-299BA816EC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EED6361-75F8-42C6-98C1-CB7B78AE8DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EED6361-75F8-42C6-98C1-CB7B78AE8DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EED6361-75F8-42C6-98C1-CB7B78AE8DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EED6361-75F8-42C6-98C1-CB7B78AE8DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4099CD73-DC01-43D6-BCA9-DC099B4A6B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4099CD73-DC01-43D6-BCA9-DC099B4A6B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4099CD73-DC01-43D6-BCA9-DC099B4A6B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4099CD73-DC01-43D6-BCA9-DC099B4A6B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A412A2-13BE-4119-A9FB-B7EA2C74F15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A412A2-13BE-4119-A9FB-B7EA2C74F15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A412A2-13BE-4119-A9FB-B7EA2C74F15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A412A2-13BE-4119-A9FB-B7EA2C74F15F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD07F37A-1887-4C32-BE6D-D33F84ADC396} = {995B97EB-9E04-4AF0-954E-6A9928661A41}
+		{A382F562-633D-4FEB-AF90-334EDFFCFE8D} = {995B97EB-9E04-4AF0-954E-6A9928661A41}
+		{F5B74DA5-AD28-4B7C-B9B0-52C294170058} = {FD07F37A-1887-4C32-BE6D-D33F84ADC396}
+		{A7368762-06B3-444B-BF48-D225A5C117CA} = {FD07F37A-1887-4C32-BE6D-D33F84ADC396}
+		{5BE799F3-DEEC-4DD9-ACF8-D5CB359C566F} = {FD07F37A-1887-4C32-BE6D-D33F84ADC396}
+	EndGlobalSection
+EndGlobal
